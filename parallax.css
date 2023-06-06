@@ -1,0 +1,41 @@
+body{
+    background-image: url('blue.jpg');
+    background-attachment: fixed;
+}
+
+.box
+{
+    text-align: center;
+    margin-top: 50vh;
+    transform: translateY(-50%);
+    background-color: black;
+    color: whitesmoke;
+    font-family:sans-serif;
+    letter-spacing: 2px;
+    font-weight: 700;
+}
+
+/* p,h1{
+    letter-spacing: 2px;
+    text-align: center;
+    margin-top: 50vh;
+    font-weight: lighter;
+    color: whitesmoke;
+    /* font-family:sans-serif; */
+    /* letter-spacing: 2px; */
+    /* font-weight: 700; */
+    /* background-color: black; */
+
+    section{
+    text-align: center;
+    margin-top: 50vh;
+    color: rgb(0, 0, 0);
+    background-color: aliceblue;
+    letter-spacing: 2px;
+    font-weight: lighter;
+   
+
+    }
+    
+
+
